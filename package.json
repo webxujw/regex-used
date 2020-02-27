@@ -1,0 +1,23 @@
+{
+  "name": "regex-used",
+  "version": "0.0.0",
+  "description": "常用regex表达式",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xldou-cn/regex-used.git"
+  },
+  "keywords": [
+    "Regex",
+    "used"
+  ],
+  "author": "webxujw@163.com",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
